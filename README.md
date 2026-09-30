@@ -27,3 +27,6 @@ Primarily Python, with occasional JavaScript solutions.
 
 MIT
 <!-- commit 20260929001357 -->
+## Notes
+
+- Run `pip install -r requirements.txt` before first use.
